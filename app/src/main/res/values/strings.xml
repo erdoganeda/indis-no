@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">listv deneme</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world"></string>
+    <array name="iller">
+        <item>Ankara</item>
+       <item>İstanbul</item>
+       <item>İzmir</item>
+       <item>Hatay</item>
+        <item>Bursa</item>
+        <item>Van</item>
+        <item>Tokat</item>
+        <item>Sivas</item>
+        <item>Erzincan</item>
+        <item>Erzurum</item>
+        <item>Kayseri</item>
+        <item>Hakkari</item>
+        <item>Kırıkkale</item>
+</array>
+    </resources>
